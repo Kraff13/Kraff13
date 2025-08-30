@@ -1,6 +1,6 @@
 # Ilya — Aspiring Neural Network Developer 👋
 
-![status](https://img.shields.io/badge/status-learning-yellow) ![goal](https://img.shields.io/badge/goal-complete%20in%201%20year-brightgreen)
+![status](https://img.shields.io/badge/status-learning-yellow)
 
 Hi — I'm **Ilya**.  
 I'm studying **Applied Informatics** and currently taking the **"Neural Network Developer"** course by **The Founder**. I came into IT because it fascinates me and I want to grow my skills and build real projects. Right now I don't have finished public projects — this profile will track my learning, experiments, and future contributions.
@@ -10,12 +10,6 @@ I'm studying **Applied Informatics** and currently taking the **"Neural Network 
 ## 🎯 Goals
 - Finish **Neural Network Developer** course within **1 year**.
 - Build and publish practical ML / neural network projects.
-
----
-
-## 🔭 Current Focus
-- Neural networks & deep learning fundamentals  
-- Practical model implementation and experimentation
 
 ---
 
