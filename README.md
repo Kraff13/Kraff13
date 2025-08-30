@@ -15,21 +15,24 @@ I'm studying **Applied Informatics** and currently taking the **"Neural Network 
 
 ## 🚧 Roadmap
 
-| Stage                                                     | Start Date | End Date | Brief Description                                                                                                       |
-| --------------------------------------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **1. Introductory Course and Portfolio Creation**         | 08:2025    | `XX:2025`  | Introduction to Google Colab and GitHub, creation of portfolio page, development of a service using pre-trained models. |
-| **2. Python Basics**                                      | `XX:2025`    | `XX:2025`  | Learn Python fundamentals: data types, conditions, loops, lists, tuples, dictionaries, and sets.                        |
-| **3. Functions and OOP in Python**                        | `XX:2025`    | `XX:2025`  | Learn functions, classes, objects, and modules to create structured and simple programs.                                |
-| **4. Neural Networks and Activation Functions**           | `XX:2025`    | `XX:2025`  | Learn about neural networks, the mathematical model of a neuron, and activation functions.                              |
-| **5. Introduction to Data Science and Libraries**         | `XX:2025`    | `XX:2025`  | Explore Data Science, work with big data, use Python libraries for data analysis and visualization.                     |
-| **6. Classes and Practical Machine Learning**             | `XX:2025`    | `XX:2025`  | Get to know the perceptron and the basics of classical machine learning, solve cases for your portfolio.                |
-| **7. Selling AI Products**                                | `XX:2025`    | `XX:2025`  | Learn about AI commercialization: creating specifications, estimating project value, selling pre-trained models.        |
-| **8. Asynchronous Programming and Telegram Bot**          | `XX:2025`    | `XX:2025`  | Learn asynchronous programming, create a Telegram bot, and integrate it with ChatGPT.                                   |
-| **9. Simple Neural Networks with Keras**                  | `XX:2025`    | `XX:2025`  | Build simple neural networks with Keras for classification and recognition tasks.                                       |
-| **10. Computer Vision with OpenCV**                       | `XX:2025`    | `XX:2025`  | Solve computer vision tasks with OpenCV, such as face and car number plate recognition.                                 |
-| **11. Overfitting and Regularization of Neural Networks** | `XX:2025`    | `XX:2025`  | Learn about overfitting in neural networks, optimization, and regularization methods for improving models.              |
-| **12. Modern Approaches and Data Processing**             | `XX:2025`    | `XX:2025`  | Explore modern computer vision (CV) techniques, process text, audio, and perform time series analysis.                  |
-| **13. Reinforcement Learning Models**                     | `XX:2025`    | `XX:2025`  | Learn reinforcement learning algorithms, create models that learn from mistakes, including TD learning and Q-learning.  |
-| **14. Genetic Algorithms and Clustering**                 | `XX:2025`    | `XX:2025`  | Study genetic algorithms for optimization tasks, clustering data, and time series analysis.                             |
-| **15. Developing Mobile and Desktop AI Applications**     | `XX:2025`    | `XX:2025`  | Build desktop and mobile applications with neural networks to solve real-world tasks.                                   |
-| **16. Project Completion and Growth**                     | `XX:2025`    | `XX:2025`  | Final stage: create a full-fledged AI product, continuous skill growth and development in the IT field.                 |
+| Module | Start | End | Description |
+| :--- | :---: | :---: | :--- |
+| **Module 1: Course Introduction** | 08:2025 | XX:2025 | Introduction to Google Colab and GitHub. Creating your first service using pre-trained models. |
+| **Module 2: Programming Fundamentals** | XX:2025 | XX:2025 | Learning Python basics: data types, conditions, loops, data structures, functions, classes, and creating modules. |
+| **Module 3: Neural Networks Basics** | XX:2025 | XX:2025 | Mathematical model of a neuron, activation functions, and principles of neural network operation. |
+| **Module 4: Data Science Fundamentals** | XX:2025 | XX:2025 | Introduction to Data Science: data collection, processing, analysis and visualization libraries (Pandas, NumPy, Matplotlib). |
+| **Module 5: Neural Networks Basics** | XX:2025 | XX:2025 | Perceptron, mathematical framework for network training. **Practical Work #1** on classical ML. |
+| **Module 6: Sales** | XX:2025 | XX:2025 | How to sell AI solutions: project estimation, writing specifications and documentation. |
+| **Module 7: Advanced Programming** | XX:2025 | XX:2025 | Asynchronous programming in Python and creating a Telegram bot. |
+| **Module 8: Model Deployment in Production** | XX:2025 | XX:2025 | Working with Yandex Cloud and creating a production-ready bot with ChatGPT. |
+| **Module 9: Neural Networks Basics** | XX:2025 | XX:2025 | Building simple neural networks with Keras for handwritten digit recognition. |
+| **Module 10: Frameworks. OpenCV** | XX:2025 | XX:2025 | Solving computer vision tasks: face and license plate recognition. |
+| **Module 11: Neural Networks Basics** | XX:2025 | XX:2025 | Advanced topics: overfitting, optimization, CNN, RNN, text/audio processing, time series analysis. |
+| **Module 12: ML Frameworks** | XX:2025 | XX:2025 | Introduction to AutoML frameworks for automating machine learning tasks. |
+| **Module 13: Model Deployment in Production** | XX:2025 | XX:2025 | Creating a simple web service (API) to interact with the model. |
+| **Module 14: Chatbots** | XX:2025 | XX:2025 | Creating and fine-tuning LLMs, RAG systems, combating hallucinations. **Practical Work #2** on chatbots. |
+| **Module 15: Neural Networks Basics** | XX:2025 | XX:2025 | Autoencoders, GANs, attention mechanisms and their practical applications. |
+| **Module 16: Neural Networks for Professionals** | XX:2025 | XX:2025 | Transformers, BERT, YOLO and other modern architectures. |
+| **Module 17: Neural Networks Basics** | XX:2025 | XX:2025 | Introduction to reinforcement learning: basic algorithms and Monte Carlo methods. |
+| **Module 18: Neural Networks for Professionals** | XX:2025 | XX:2025 | Q-learning, genetic algorithms, clustering, speech technologies. **Practical Work #3**. |
+| **Module 19: Model Deployment in Production** | XX:2025 | XX:2025 | Creating mobile and desktop applications with integrated neural networks. **Practical Work #4**. |
