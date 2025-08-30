@@ -1,68 +1,41 @@
-<h1 align="center">Привет всем! 👋 Меня зовут [Твое Имя]</h1>
-<h3 align="center">Начинающий и увлеченный разработчик из [Твой Город]</h3>
+# Ilya — Aspiring Neural Network Developer 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Только+начал(а)+свой+путь+в+IT;С+энтузиазмом+изучаю+новое;Готов(а)+к+новым+вызовам!;Добро+пожаловать+на+мой+профиль!" alt="Typing SVG" /></a>
-</p>
+![status](https://img.shields.io/badge/status-learning-yellow) ![goal](https://img.shields.io/badge/goal-complete%20in%201%20year-brightgreen)
 
----
-
-### 🧠 Обо мне:
-
-- 🌱 **Сейчас я активно учу:** `HTML`, `CSS`, `JavaScript` и другие основы веб-разработки.
-- 🤔 **Я хочу разобраться в:** том, как строятся современные веб-приложения и как писать чистый, понятный код.
-- 🎯 **Моя цель на этот год:** уверенно освоить базовый стек (HTML/CSS/JS + React) и создать свои первые настоящие проекты.
-- ⚡ **Факт обо мне:** Я пришел(шла) в программирование, потому что [кратко напиши свою мотивацию, например: *мне нравится создавать что-то из ничего* или *я хочу решать реальные проблемы с помощью кода*].
+Hi — I'm **Ilya**.  
+I'm studying **Applied Informatics** and currently taking the **"Neural Network Developer"** course by **The Founder**. I came into IT because it fascinates me and I want to grow my skills and build real projects. Right now I don't have finished public projects — this profile will track my learning, experiments, and future contributions.
 
 ---
 
-### 🛠️ Мой инструментарий и технологии, которые я изучаю:
-
-| Категория       | Технологии                                                                                                                                                                                                                                                                                                                                                             |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Языки**       | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)                                                           |
-| **Инструменты** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)                                                           |
-| **В планах**    | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)                                                                                                                                                                    |
+## 🎯 Goals
+- Finish **Neural Network Developer** course within **1 year**.
+- Build and publish practical ML / neural network projects.
 
 ---
 
-### 📂 Мои учебные проекты:
-
-Здесь я применяю полученные знания на практике. Пока это небольшие проекты, но каждый из них — мой шаг вперед!
-
-1.  **[Название твоего первого проекта](https://github.com/твой-username/ссылка-на-репозиторий)** - Краткое описание (Например: "Мой первый сайт-визитка на HTML и CSS").
-2.  **[Название второго проекта](https://github.com/твой-username/ссылка-на-репозиторий)** - Краткое описание (Например: "Простая игра на чистом JavaScript").
-3.  *...скоро здесь появится больше!*
+## 🔭 Current Focus
+- Neural networks & deep learning fundamentals  
+- Practical model implementation and experimentation
 
 ---
 
-### 📊 Моя статистика на GitHub:
+## 🚧 Roadmap
 
-<!--
-Этот блок будет расти вместе с твоими коммитами! Пока он может быть скромным, но это только начало.
--->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твой-username&show_icons=true&theme=default&hide_border=true&hide=prs,issues" alt="Твоя статистика" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой-username&theme=default&hide_border=true&layout=compact&langs_count=6" alt="Топ языков" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=твой-username&label=Людей%20посмотрело&color=lightgrey&style=flat" alt="Счетчик просмотров" />
-</p>
-
----
-
-### 📫 Как со мной связаться:
-
-- **Telegram:** [@твойusername](https://t.me/твойusername)
-- **Почта:** [tvoya.pochta@example.com](mailto:tvoya.pochta@example.com)
-- **LinkedIn:** [Твое Имя](https://www.linkedin.com/in/твой-профиль/)
-
-*Не стесняйся написать мне! Всегда рад(а) пообщаться, узнать что-то новое или просто познакомиться.* 😊
-
----
-
-<p align="center">
-   <i>🚀 Я только в начале своего пути, но каждый день стараюсь стать лучше, чем вчера.</i>
-</p>
+| Stage                                                     | Start Date | End Date | Brief Description                                                                                                       |
+| --------------------------------------------------------- | ---------- | -------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **1. Introductory Course and Portfolio Creation**         | 08:2025    | `XX:2025`  | Introduction to Google Colab and GitHub, creation of portfolio page, development of a service using pre-trained models. |
+| **2. Python Basics**                                      | `XX:2025`    | `XX:2025`  | Learn Python fundamentals: data types, conditions, loops, lists, tuples, dictionaries, and sets.                        |
+| **3. Functions and OOP in Python**                        | `XX:2025`    | `XX:2025`  | Learn functions, classes, objects, and modules to create structured and simple programs.                                |
+| **4. Neural Networks and Activation Functions**           | `XX:2025`    | `XX:2025`  | Learn about neural networks, the mathematical model of a neuron, and activation functions.                              |
+| **5. Introduction to Data Science and Libraries**         | `XX:2025`    | `XX:2025`  | Explore Data Science, work with big data, use Python libraries for data analysis and visualization.                     |
+| **6. Classes and Practical Machine Learning**             | `XX:2025`    | `XX:2025`  | Get to know the perceptron and the basics of classical machine learning, solve cases for your portfolio.                |
+| **7. Selling AI Products**                                | `XX:2025`    | `XX:2025`  | Learn about AI commercialization: creating specifications, estimating project value, selling pre-trained models.        |
+| **8. Asynchronous Programming and Telegram Bot**          | `XX:2025`    | `XX:2025`  | Learn asynchronous programming, create a Telegram bot, and integrate it with ChatGPT.                                   |
+| **9. Simple Neural Networks with Keras**                  | `XX:2025`    | `XX:2025`  | Build simple neural networks with Keras for classification and recognition tasks.                                       |
+| **10. Computer Vision with OpenCV**                       | `XX:2025`    | `XX:2025`  | Solve computer vision tasks with OpenCV, such as face and car number plate recognition.                                 |
+| **11. Overfitting and Regularization of Neural Networks** | `XX:2025`    | `XX:2025`  | Learn about overfitting in neural networks, optimization, and regularization methods for improving models.              |
+| **12. Modern Approaches and Data Processing**             | `XX:2025`    | `XX:2025`  | Explore modern computer vision (CV) techniques, process text, audio, and perform time series analysis.                  |
+| **13. Reinforcement Learning Models**                     | `XX:2025`    | `XX:2025`  | Learn reinforcement learning algorithms, create models that learn from mistakes, including TD learning and Q-learning.  |
+| **14. Genetic Algorithms and Clustering**                 | `XX:2025`    | `XX:2025`  | Study genetic algorithms for optimization tasks, clustering data, and time series analysis.                             |
+| **15. Developing Mobile and Desktop AI Applications**     | `XX:2025`    | `XX:2025`  | Build desktop and mobile applications with neural networks to solve real-world tasks.                                   |
+| **16. Project Completion and Growth**                     | `XX:2025`    | `XX:2025`  | Final stage: create a full-fledged AI product, continuous skill growth and development in the IT field.                 |
