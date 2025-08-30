@@ -9,7 +9,6 @@ I'm studying **Applied Informatics** and currently taking the **"Neural Network 
 
 ## 🎯 Goals
 - Finish **Neural Network Developer** course within **1 year**.
-- Build and publish practical ML / neural network projects.
 
 ---
 
