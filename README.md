@@ -18,8 +18,8 @@ I'm studying **Applied Informatics** and currently taking the **"Neural Network 
 | :--- | :---: | :---: | :--- |
 | **Module 1: Course Introduction** | 08:2025 | 08:2025 | Introduction to Google Colab and GitHub. Creating your first service using pre-trained models. |
 | **Module 2: Programming Fundamentals** | 09:2025 | 09:2025 | Learning Python basics: data types, conditions, loops, data structures, functions, classes, and creating modules. |
-| **Module 3: Neural Networks Basics** | 09:2025 | XX:2025 | Mathematical model of a neuron, activation functions, and principles of neural network operation. |
-| **Module 4: Data Science Fundamentals** | XX:2025 | XX:2025 | Introduction to Data Science: data collection, processing, analysis and visualization libraries (Pandas, NumPy, Matplotlib). |
+| **Module 3: Neural Networks Basics** | 09:2025 | 09:2025 | Mathematical model of a neuron, activation functions, and principles of neural network operation. |
+| **Module 4: Data Science Fundamentals** | 09:2025 | XX:2025 | Introduction to Data Science: data collection, processing, analysis and visualization libraries (Pandas, NumPy, Matplotlib). |
 | **Module 5: Neural Networks Basics** | XX:2025 | XX:2025 | Perceptron, mathematical framework for network training. **Practical Work #1** on classical ML. |
 | **Module 6: Sales** | XX:2025 | XX:2025 | How to sell AI solutions: project estimation, writing specifications and documentation. |
 | **Module 7: Advanced Programming** | XX:2025 | XX:2025 | Asynchronous programming in Python and creating a Telegram bot. |
