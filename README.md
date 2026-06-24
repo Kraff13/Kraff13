@@ -67,10 +67,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kraff13&theme=tokyonight" alt="GitHub streak" />
 </p>
-
----
-
-### 🤝 Connect
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<!-- Add your links: Telegram, LinkedIn, email, etc. -->
